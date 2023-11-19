@@ -1,0 +1,12 @@
+/* App.css */
+.user-card {
+  border: 1px solid #e02929;
+  padding: 6px;
+  margin: 6px;
+  borderRadius: 0.5px;
+  boxShadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.user-card h3 {
+  margin-bottom: 4px;
+}
